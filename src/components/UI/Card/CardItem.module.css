@@ -1,0 +1,23 @@
+.card {
+  width: 220px;
+  padding: 5px;
+  margin: 20px;
+  box-shadow: 2px 2px 2px gray;
+  border: 2px solid black;
+  border-radius: 2px;
+  background-color: rebeccapurple;
+  color: cyan;
+}
+.card-header {
+  margin-left: -10px;
+}
+.card-body {
+  font-family: "Times New Roman", Times, serif;
+  text-decoration: dotted;
+}
+.card-footer {
+  text-align: center;
+}
+.btn {
+  background-color: aqua;
+}
