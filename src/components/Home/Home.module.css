@@ -1,0 +1,21 @@
+.btn {
+  border-radius: 10px;
+  margin-left: 220px;
+  background-color: aqua;
+}
+.btn.hover {
+  background-color: aquamarine;
+}
+
+.title {
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+.title ~ div {
+  margin-bottom: 15px;
+}
+.accordion-body {
+  color: white;
+  width: 500px;
+  /* background-image: url(../images/temp1.png); */
+}
